@@ -1,8 +1,5 @@
-## Aspiring System Designer and Software Engineer
-
+## Aspiring Software Engineer and System Designer
 Currently Working On: https://github.com/KrystianGolinski/Simulated_Trading_Platform
-
-
 ## Contact
 
 ![Gmail](https://img.shields.io/badge/-gmail-D14836?style=flat&logo=gmail&logoColor=white) krystiangolinski4@gmail.com
