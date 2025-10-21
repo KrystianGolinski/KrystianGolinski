@@ -3,7 +3,9 @@ Currently Working On: https://github.com/KrystianGolinski/Simulated_Trading_Plat
 
 ## Background
 University of Nottingham BSc (Hons) Computer Science 2026 Graduate, developing full-stack applications and architectures to power them. 
+
 C++ is my preferred language, but languages are chosen for their purpose not preference.
+
 Academic GitLab account (inactive + private): https://projects.cs.nott.ac.uk/psykg5
 
 ## Contact
