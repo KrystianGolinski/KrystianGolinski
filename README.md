@@ -1,5 +1,6 @@
 ## Aspiring Software Engineer and System Designer
 Currently working on my main project: https://github.com/KrystianGolinski/Simulated_Trading_Platform
+
 Currently developing my side project to aid main project development: https://github.com/KrystianGolinski/Code_Comments_Platform
 
 ## Background
