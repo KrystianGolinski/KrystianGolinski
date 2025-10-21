@@ -1,7 +1,11 @@
 ## Aspiring Software Engineer and System Designer
-Currently working on my main project: https://github.com/KrystianGolinski/Simulated_Trading_Platform
+Main Project: 
 
-Currently developing my side project to aid main project development: https://github.com/KrystianGolinski/Code_Comments_Platform
+https://github.com/KrystianGolinski/Simulated_Trading_Platform
+
+Side Project (Aid Main Project Development): 
+
+https://github.com/KrystianGolinski/Code_Comments_Platform
 
 ## Background
 University of Nottingham BSc (Hons) Computer Science 2026 Graduate, developing full-stack applications and architectures to power them. 
